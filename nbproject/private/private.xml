@@ -3,8 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/org/netbeans/rest/application/config/ApplicationConfig.java</file>
-            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/br/edu/ifrn/apiypsos/resources/AlunoResource.java</file>
+            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/br/edu/ifrn/apiypsos/useful/Authenticator.java</file>
+            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/br/edu/ifrn/apiypsos/resources/AutenticacaoResource.java</file>
+            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/br/edu/ifrn/apiypsos/filters/RequestFilter.java</file>
+            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/br/edu/ifrn/apiypsos/data/AlunoDAO.java</file>
+            <file>file:/home/matheus/NetBeansProjects/api-ypsosapp/src/java/br/edu/ifrn/apiypsos/domain/Aluno.java</file>
         </group>
     </open-files>
 </project-private>

@@ -29,7 +29,10 @@ public class ApplicationConfig extends Application {
      * If required, comment out calling this method in getClasses().
      */
     private void addRestResourceClasses(Set<Class<?>> resources) {
+        resources.add(br.edu.ifrn.apiypsos.filters.RequestFilter.class);
+        resources.add(br.edu.ifrn.apiypsos.filters.ResponseFilter.class);
         resources.add(br.edu.ifrn.apiypsos.resources.AlunoResource.class);
+        resources.add(br.edu.ifrn.apiypsos.resources.AutenticacaoResource.class);
     }
     
 }
